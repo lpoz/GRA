@@ -1,0 +1,2 @@
+# GRA
+Granger-Ramanathan Averaging
